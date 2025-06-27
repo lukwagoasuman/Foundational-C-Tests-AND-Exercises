@@ -1,0 +1,15 @@
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.csproj.AssemblyReference.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.AssemblyInfoInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.AssemblyInfo.cs
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.csproj.CoreCompileInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/bin/Debug/net6.0/TestProject4
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/bin/Debug/net6.0/TestProject4.deps.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/bin/Debug/net6.0/TestProject4.runtimeconfig.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/bin/Debug/net6.0/TestProject4.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/bin/Debug/net6.0/TestProject4.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/refint/TestProject4.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/TestProject4.genruntimeconfig.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/obj/Debug/net6.0/ref/TestProject4.dll

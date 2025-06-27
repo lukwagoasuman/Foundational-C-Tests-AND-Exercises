@@ -1,0 +1,15 @@
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net6.0/Starter
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net6.0/Starter.deps.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net6.0/Starter.runtimeconfig.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net6.0/Starter.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net6.0/Starter.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.csproj.AssemblyReference.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.AssemblyInfoInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.AssemblyInfo.cs
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.csproj.CoreCompileInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/refint/Starter.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/Starter.genruntimeconfig.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors3/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net6.0/ref/Starter.dll

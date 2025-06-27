@@ -1,0 +1,27 @@
+sudo dpkg --remove --force-remove-reinstreq metasploit-framework
+
+sudo apt clean
+sudo apt autoremove
+sudo apt update
+
+┌──(lukewago㉿53cUr17y)-[~]
+└─$ rm -rf ~/.msf4/db
+                                                                                           
+┌──(lukewago㉿53cUr17y)-[~]
+└─$ sudo -u postgres createuser msf -P wettin_way234!
+createuser: error: too many command-line arguments (first is "wettin_way234!")
+Try "createuser --help" for more information.
+                                                                                           
+┌──(lukewago㉿53cUr17y)-[~]
+└─$ sudo -u postgres createuser msf -P               
+Enter password for new role: 
+Enter it again: 
+                                                                                           
+┌──(lukewago㉿53cUr17y)-[~]
+└─$ sudo -u postgres createdb -O msf msf_database
+                                                                                           
+┌──(lukewago㉿53cUr17y)-[~]
+└─$ sudo nano ~/.msf4/database.yml               
+                                                                                           
+┌──(lukewago㉿53cUr17y)-[~]
+└─$ msfconsole

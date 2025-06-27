@@ -1,0 +1,15 @@
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/bin/Debug/net6.0/TestProject3Final
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/bin/Debug/net6.0/TestProject3Final.deps.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/bin/Debug/net6.0/TestProject3Final.runtimeconfig.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/bin/Debug/net6.0/TestProject3Final.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/bin/Debug/net6.0/TestProject3Final.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.csproj.AssemblyReference.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.AssemblyInfoInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.AssemblyInfo.cs
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.csproj.CoreCompileInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/refint/TestProject3Final.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/TestProject3Final.genruntimeconfig.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject3Final/obj/Debug/net6.0/ref/TestProject3Final.dll

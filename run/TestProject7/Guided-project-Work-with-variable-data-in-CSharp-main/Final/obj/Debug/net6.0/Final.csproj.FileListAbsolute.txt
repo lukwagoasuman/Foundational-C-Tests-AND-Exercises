@@ -1,0 +1,15 @@
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/bin/Debug/net6.0/Final
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/bin/Debug/net6.0/Final.deps.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/bin/Debug/net6.0/Final.runtimeconfig.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/bin/Debug/net6.0/Final.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/bin/Debug/net6.0/Final.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.csproj.AssemblyReference.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.AssemblyInfoInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.AssemblyInfo.cs
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.csproj.CoreCompileInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/refint/Final.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/Final.genruntimeconfig.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/obj/Debug/net6.0/ref/Final.dll

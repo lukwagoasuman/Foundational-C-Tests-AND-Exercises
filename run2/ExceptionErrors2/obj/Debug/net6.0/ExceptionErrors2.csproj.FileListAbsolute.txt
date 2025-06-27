@@ -1,0 +1,15 @@
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/bin/Debug/net6.0/ExceptionErrors2
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/bin/Debug/net6.0/ExceptionErrors2.deps.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/bin/Debug/net6.0/ExceptionErrors2.runtimeconfig.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/bin/Debug/net6.0/ExceptionErrors2.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/bin/Debug/net6.0/ExceptionErrors2.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.csproj.AssemblyReference.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.AssemblyInfoInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.AssemblyInfo.cs
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.csproj.CoreCompileInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/refint/ExceptionErrors2.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ExceptionErrors2.genruntimeconfig.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/ExceptionErrors2/obj/Debug/net6.0/ref/ExceptionErrors2.dll

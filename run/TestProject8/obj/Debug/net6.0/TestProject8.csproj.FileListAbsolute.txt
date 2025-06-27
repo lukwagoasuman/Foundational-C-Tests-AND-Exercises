@@ -1,0 +1,15 @@
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/bin/Debug/net6.0/TestProject8
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/bin/Debug/net6.0/TestProject8.deps.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/bin/Debug/net6.0/TestProject8.runtimeconfig.json
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/bin/Debug/net6.0/TestProject8.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/bin/Debug/net6.0/TestProject8.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.csproj.AssemblyReference.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.AssemblyInfoInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.AssemblyInfo.cs
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.csproj.CoreCompileInputs.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/refint/TestProject8.dll
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.pdb
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/TestProject8.genruntimeconfig.cache
+/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject8/obj/Debug/net6.0/ref/TestProject8.dll

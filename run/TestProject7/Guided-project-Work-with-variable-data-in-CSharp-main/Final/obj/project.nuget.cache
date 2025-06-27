@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/a0TGRJbx7hBL1Yb5D93mxWB2i4SWjftLHUDzMDUX7WKCUTe9LQtRTEU2ppKtvlX5yyDukTrvAjXyaRpiUVVw==",
+  "success": true,
+  "projectFilePath": "/home/lukewago/Desktop/MicrosoftxFreecodecamp/run/TestProject7/Guided-project-Work-with-variable-data-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/home/lukewago/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lukewago/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lukewago/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

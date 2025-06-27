@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NP+AeKTi/m79yf3i7cFtjYhtDsG7tVS7Eh5hV8zm7vCzOF0gfQALMzJBimnJKR1te4NSxF33vYdn8jHjl8vG7g==",
+  "success": true,
+  "projectFilePath": "/home/lukewago/Desktop/MicrosoftxFreecodecamp/run2/TestProject4/TestProject4.csproj",
+  "expectedPackageFiles": [
+    "/home/lukewago/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lukewago/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lukewago/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
